@@ -2,9 +2,9 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning in 7 class
 - 💞️ I’m looking to collaborate on pankoza
-- 📫 How to reach me ...
+- 📫 How to reach me no
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i qwert56 in youtube
 
 <!---
 aqwInIy/aqwInIy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
